@@ -1,4 +1,4 @@
-# 📨 Join Us — Waitlist Signup App  
+# 📨 Waitlist Signup App  
 *A full-stack web demo built with Node.js, Express, MySQL, and EJS.*
 
 ---
